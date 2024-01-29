@@ -26,8 +26,8 @@ namespace _06
             Match match = Regex.Match(input, @"^([^\d]+)(\d+),(\d+) through (\d+),(\d+)");
             Action = match.Groups[1].Value.Trim();
             XStart = int.Parse(match.Groups[2].Value.Trim());
-            XEnd = int.Parse(match.Groups[3].Value.Trim());
-            YStart = int.Parse(match.Groups[4].Value.Trim());
+            YStart = int.Parse(match.Groups[3].Value.Trim());
+            XEnd = int.Parse(match.Groups[4].Value.Trim());
             YEnd = int.Parse(match.Groups[5].Value.Trim());
         }
     }

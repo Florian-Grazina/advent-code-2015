@@ -9,49 +9,47 @@ namespace _06
     internal class LightGrid
     {
         // properties
-        public bool[,] Lights { get; set; }
+        public Light[,] Lights { get; set; }
 
 
         // constructor
         public LightGrid()
         {
-            Lights = new bool[1000, 1000];
+            Lights = new Light[1000, 1000];
             InitLights();
         }
 
-
-        // methods
         private void InitLights()
         {
-            for(int i = 0; i <  Lights.GetLength(0); i++)
+            for(int x = 0; x < Lights.GetLength(0); x++)
             {
-                for(int j = 0; j < Lights.GetLength(1); j++)
+                for (int y = 0; y < Lights.GetLength(1); y++)
                 {
-                    Lights[i,j] = false;
+                    Lights[x, y] = new();
                 }
             }
         }
 
+
+
+        // methods
         internal void Action(Command command)
         {
-            bool? turnOn = null;
+            int brightness = 2;
 
             if (command.Action == "turn on")
-                turnOn = true;
+                brightness = 1;
             else if (command.Action == "turn off")
-                turnOn = false;
+                brightness = -1;
 
             for (int x = command.XStart; x <= command.XEnd; x++)
             {
                 for (int y = command.YStart; y <= command.YEnd; y++)
                 {
-                    if(turnOn.HasValue)
-                        Lights[x, y] = turnOn.Value;
-                    else
-                        Lights[x, y] = !Lights[x, y];
+                    if (Lights[x, y].Brigthness + brightness >= 0)
+                        Lights[x, y].Brigthness += brightness;
                 }
             }
-
         }
     }
 }

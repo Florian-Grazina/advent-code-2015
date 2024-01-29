@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fgrazina\\Source\\repos\\Florian-Grazina\\advent-2015\\06\\06s.csproj",
-      "projectName": "06s",
-      "projectPath": "C:\\Users\\fgrazina\\Source\\repos\\Florian-Grazina\\advent-2015\\06\\06s.csproj",
+      "projectUniqueName": "C:\\Users\\fgrazina\\Source\\repos\\Florian-Grazina\\advent-2015\\07\\07.csproj",
+      "projectName": "07",
+      "projectPath": "C:\\Users\\fgrazina\\Source\\repos\\Florian-Grazina\\advent-2015\\07\\07.csproj",
       "packagesPath": "C:\\Users\\fgrazina\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fgrazina\\Source\\repos\\Florian-Grazina\\advent-2015\\06\\obj\\",
+      "outputPath": "C:\\Users\\fgrazina\\Source\\repos\\Florian-Grazina\\advent-2015\\07\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fgrazina\\AppData\\Roaming\\NuGet\\NuGet.Config",

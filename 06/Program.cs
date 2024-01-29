@@ -9,4 +9,5 @@ foreach(string line in input)
     lightGrid.Action(command);
 }
 
-Console.WriteLine(lightGrid.Lights.Cast<bool>().Count(value => value = true));
+long result = lightGrid.Lights.Cast<Light>().Sum(light => light.Brigthness);
+{ }

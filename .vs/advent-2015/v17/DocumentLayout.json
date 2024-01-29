@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\fgrazina\\Source\\repos\\Florian-Grazina\\advent-2015\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FC53EBD9-F454-44A4-998E-1998E92C6067}|06\\06.csproj|c:\\users\\fgrazina\\source\\repos\\florian-grazina\\advent-2015\\06\\lightgrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC53EBD9-F454-44A4-998E-1998E92C6067}|06\\06.csproj|solutionrelative:06\\lightgrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{580CC8B8-D9F2-4000-BDE2-6FA686FC289C}|06\\06s.csproj|c:\\users\\fgrazina\\source\\repos\\florian-grazina\\advent-2015\\06\\lightgrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580CC8B8-D9F2-4000-BDE2-6FA686FC289C}|06\\06s.csproj|solutionrelative:06\\lightgrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC53EBD9-F454-44A4-998E-1998E92C6067}|06\\06.csproj|c:\\users\\fgrazina\\source\\repos\\florian-grazina\\advent-2015\\06\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC53EBD9-F454-44A4-998E-1998E92C6067}|06\\06.csproj|solutionrelative:06\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{580CC8B8-D9F2-4000-BDE2-6FA686FC289C}|06\\06s.csproj|c:\\users\\fgrazina\\source\\repos\\florian-grazina\\advent-2015\\06\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{580CC8B8-D9F2-4000-BDE2-6FA686FC289C}|06\\06s.csproj|solutionrelative:06\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC53EBD9-F454-44A4-998E-1998E92C6067}|06\\06.csproj|c:\\users\\fgrazina\\source\\repos\\florian-grazina\\advent-2015\\06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC53EBD9-F454-44A4-998E-1998E92C6067}|06\\06.csproj|solutionrelative:06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{580CC8B8-D9F2-4000-BDE2-6FA686FC289C}|06\\06s.csproj|c:\\users\\fgrazina\\source\\repos\\florian-grazina\\advent-2015\\06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580CC8B8-D9F2-4000-BDE2-6FA686FC289C}|06\\06s.csproj|solutionrelative:06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC53EBD9-F454-44A4-998E-1998E92C6067}|06\\06.csproj|c:\\users\\fgrazina\\source\\repos\\florian-grazina\\advent-2015\\06\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{FC53EBD9-F454-44A4-998E-1998E92C6067}|06\\06.csproj|solutionrelative:06\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{580CC8B8-D9F2-4000-BDE2-6FA686FC289C}|06\\06s.csproj|c:\\users\\fgrazina\\source\\repos\\florian-grazina\\advent-2015\\06\\light.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580CC8B8-D9F2-4000-BDE2-6FA686FC289C}|06\\06s.csproj|solutionrelative:06\\light.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,28 +38,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Command.cs",
-              "DocumentMoniker": "C:\\Users\\fgrazina\\Source\\repos\\Florian-Grazina\\advent-2015\\06\\Command.cs",
-              "RelativeDocumentMoniker": "06\\Command.cs",
-              "ToolTip": "C:\\Users\\fgrazina\\Source\\repos\\Florian-Grazina\\advent-2015\\06\\Command.cs",
-              "RelativeToolTip": "06\\Command.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAqwB4AAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-01-26T16:33:29.878Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "input.txt",
-              "DocumentMoniker": "C:\\Users\\fgrazina\\Source\\repos\\Florian-Grazina\\advent-2015\\06\\input.txt",
-              "RelativeDocumentMoniker": "06\\input.txt",
-              "ToolTip": "C:\\Users\\fgrazina\\Source\\repos\\Florian-Grazina\\advent-2015\\06\\input.txt",
-              "RelativeToolTip": "06\\input.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-01-26T16:24:21.815Z",
+              "Title": "Light.cs",
+              "DocumentMoniker": "C:\\Users\\fgrazina\\Source\\repos\\Florian-Grazina\\advent-2015\\06\\Light.cs",
+              "RelativeDocumentMoniker": "06\\Light.cs",
+              "ToolTip": "C:\\Users\\fgrazina\\Source\\repos\\Florian-Grazina\\advent-2015\\06\\Light.cs",
+              "RelativeToolTip": "06\\Light.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-29T15:25:08.003Z",
               "EditorCaption": ""
             },
             {
@@ -70,9 +57,22 @@
               "RelativeDocumentMoniker": "06\\LightGrid.cs",
               "ToolTip": "C:\\Users\\fgrazina\\Source\\repos\\Florian-Grazina\\advent-2015\\06\\LightGrid.cs",
               "RelativeToolTip": "06\\LightGrid.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBEAAAAoAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAADwvzAAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-04T16:32:37.219Z",
+              "WhenOpened": "2024-01-29T15:24:57.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "input.txt",
+              "DocumentMoniker": "C:\\Users\\fgrazina\\Source\\repos\\Florian-Grazina\\advent-2015\\06\\input.txt",
+              "RelativeDocumentMoniker": "06\\input.txt",
+              "ToolTip": "C:\\Users\\fgrazina\\Source\\repos\\Florian-Grazina\\advent-2015\\06\\input.txt",
+              "RelativeToolTip": "06\\input.txt",
+              "ViewState": "AQIAAAoBAAAAAAAAAAAqwCwBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-01-29T15:23:37.719Z",
               "EditorCaption": ""
             },
             {
@@ -83,9 +83,9 @@
               "RelativeDocumentMoniker": "06\\Program.cs",
               "ToolTip": "C:\\Users\\fgrazina\\Source\\repos\\Florian-Grazina\\advent-2015\\06\\Program.cs",
               "RelativeToolTip": "06\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABNAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-04T16:30:45.287Z",
+              "WhenOpened": "2024-01-29T15:23:24.159Z",
               "EditorCaption": ""
             }
           ]
