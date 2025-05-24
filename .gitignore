@@ -1,0 +1,59 @@
+# General
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+*.pid
+
+# Environment
+.env
+
+# Build artifacts
+build/
+dist/
+*.dll
+*.exe
+*.so
+*.dylib
+*.out
+*/bin/
+*/obj/
+/bin
+/obj
+
+# Node.js
+node_modules/
+.vs/
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# Java
+*.class
+*.jar
+*.war
+
+# IDE and Editors
+.idea/
+.vscode/
+*.iml
+
+01\obj
+
+# System files
+*.swp
+*.bak
+*.tmp
+*.orig
+*.rej
+
+# macOS
+*.DS_Store
+
+# Specific to your project
+your_project_specific_files/
